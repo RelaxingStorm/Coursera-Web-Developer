@@ -1,0 +1,19 @@
+
+This Repository belongs to : DEVESH VINOD KAMATH (aka. RelaxingStorm)
+D.O.B.: 03/10/01
+Country: India
+
+This repo was created for a Course named as "HTML, CSS and Javascript for Web Developers" on Coursera.
+USING THIS REPO MODULES IN YOUR ASSIGNMENTS IS STRICTLY PROHIBITED!!!
+BUT! You can view at the source code and borrow some ideas or tag structures.
+Even i had to lookup for the tag placements as it gets difficult for us as a Begineer (or even as a Professional)
+to understand the child tags placement with proper Bootstrap classes. But it does not mean that
+copy paste would make you better in any way so PLEASE don't copy paste the source as it is...
+
+Reason: Some Guy recently checked my assignment and copied my link and attached it to his Assignment... can
+you think how bad it feels when people literally copy your work..
+So please don't be that guy who checks and then post's others work as it is lol
+
+Stay awesome, have a good day.
+
+Regards~
