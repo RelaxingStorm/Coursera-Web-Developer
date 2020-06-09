@@ -1,0 +1,85 @@
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Balsamiq Sans', cursive; */
+body {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #1a1a1a;
+    background: url("wood.jpg");
+}
+/* Header Styles */
+#header-nav {
+    background-color: #9A793F;
+    border-radius: 0;
+    border: 0;
+}
+#header-nav button {
+    margin-top: 22px;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
+}
+.navbar-collapse {
+    border-top: 0;
+}
+.navbar-brand, .navbar-nav li a {
+    height: 76px;
+    padding-top: 0;
+}
+.navbar-brand h1 {
+    color: #ffffff;
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+}
+#nav-list {
+    background-color: hsl(42, 83%, 66%);
+}
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+#nav-list a:hover {
+    color: #202020;
+    background-color: #FCE29E;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid white;
+}
+#main-content #top-heading{
+    color: #ECECE5;
+    text-shadow: azure;   
+}
+/* End of Header Styles */
+
+/* Home Page Styles */
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+#main-section {
+    background-color: #D39F46;
+    box-shadow: 0 0 50px #8A682C;
+    padding: 30px;
+}
+p{
+    height: 1000px;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 1.2em;
+}
+/* End Of Home Page Styles */
